@@ -1,0 +1,11 @@
+@feature2 @ST_665850876
+Feature: Feature two
+
+@scenario_1 @SC_708115334
+Scenario: Scenario name
+Description
+Given Scenario
+When Scenario
+Then Scenario
+
+
